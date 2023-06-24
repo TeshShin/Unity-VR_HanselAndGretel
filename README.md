@@ -22,9 +22,6 @@ VR Storybook Game for Children
       </ul>
     </li>
     <li><a href="#application-contents">Application Contents</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -80,27 +77,6 @@ a, b 공통 : 과자집 뜯어먹기 & 화난 아이의 표정을 보고 플레�
 4. **도움 주고 친구 맺기: 부서져 버린 집을 다시 고치기 위한 재료 찾기 콘텐츠**<br/>
 a. 과자집 근처에 찾아야하는 재료 실루엣 or 힌트 식 UI로 보여주고, 해당 재료 찾아서 고쳐주기 <br/>
 b. 과자집 근처에 찾아야하는 재료를 평면 도안을 보고 해당 평면에 해당하는 입체 도형 찾기 <br/>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-# Roadmap
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-# Contributing
-
-**프로젝트에 기여하는 방법**
-1. 먼저 Project를 Fork하십시오.
-2. Local에서 Feature Branch를 생성하십시오. (`git checkout -b feature/AmazingFeature`)
-3. 변경사항을 Commit 하십시오. (`git commit -m 'Add some AmazingFeature'`)
-4. Remote에 Push 하십시오. (`git push origin feature/AmazingFeature`)
-5. Merge Request를 시작하십시오.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-# License
-추후 작성 예정
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
