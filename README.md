@@ -30,7 +30,7 @@ VR Storybook Game for Children
 </details>
 
 # About the Project
-<img src = "/uploads/62861e104e57fedd752f04f515a455f5/image.png" width="700" height="400">
+<img src = "titleimage.png" width="700" height="400">
 <h4 align="center">헨젤과 그레텔 동화책을 기반으로 코로나로 인한 영유아들의 발달 지연 극복(인지 자극, 사회성 향상)을 위한 <br/>
 Unity-based VR 스토리북을 제작하는 것을 목표로 한다. <br/>
 <br/>
