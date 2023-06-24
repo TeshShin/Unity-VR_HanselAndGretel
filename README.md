@@ -53,7 +53,8 @@ Unity-based VR 스토리북을 제작하는 것을 목표로 한다. <br/>
  - 점프 : SPACE
  - 물건 집기 : X
  - 게임종료 : ALT + F4
-키보드와 마우스는 두번째 물건 집기부터 불가능 하다.
+
+키보드와 마우스는 두번째 물건 잡기부터 진행 불가능 하다.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
