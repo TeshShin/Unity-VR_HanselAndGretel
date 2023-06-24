@@ -45,6 +45,7 @@ Unity-based VR 스토리북을 제작하는 것을 목표로 한다. <br/>
 ## Installation
 ### [빌드된 프로젝트 템플릿 다운로드](https://drive.google.com/file/d/1aG-by0jnDPhGn2MWY-r2jGn5eHrKveG5/view?usp=sharing)
 방법 1. 오큘러스 기기로 옮겨서 실행하기
+
 방법 2. 키보드와 마우스로 즐기기
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
