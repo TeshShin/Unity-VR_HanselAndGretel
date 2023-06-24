@@ -56,12 +56,16 @@ Unity-based VR 스토리북을 제작하는 것을 목표로 한다. <br/>
    만일 세팅에 위 항목이 존재하지 않는다면 먼저 XR Plugin Management을 설치하여야 한다. 
 
 ## Installation
-1. 본 프로젝트 Repository를 Fork한 뒤 Local Directory에 Clone한다.
-2. 위 Prerequisites 사항을 체크한다.
-3. Build Settings > Android > Run Device에서 앱을 실행할 Oculus Quest 2 기기를 선택한다.
-4. 3번의 화면에서 Build Button을 클릭해 Apk 파일을 생성한다.
-5. 생성된 Apk 파일을 Oculus Developer Hub의 UNKNOWN SOURCES에 드래그하여 설치한다.
-
+### 방법 1.
+### [유니티 프로젝트 다운로드]()
+1. 위 Prerequisites 사항을 체크한다.
+2. Build Settings > Android > Run Device에서 앱을 실행할 Oculus Quest 2 기기를 선택한다.
+3. 3번의 화면에서 Build Button을 클릭해 Apk 파일을 생성한다.
+4. 생성된 Apk 파일을 Oculus Developer Hub의 UNKNOWN SOURCES에 드래그하여 설치한다.
+   
+### 방법 2.
+### [빌드된 프로젝트 템플릿 다운로드](https://drive.google.com/file/d/1aG-by0jnDPhGn2MWY-r2jGn5eHrKveG5/view?usp=sharing)
+오큘러스 기기로 옮겨서 실행하기
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
