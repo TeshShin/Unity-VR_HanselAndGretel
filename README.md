@@ -19,7 +19,7 @@ VR Storybook Game for Children
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#Operation Description">Operation Description</a></li>
+        <li><a href="#operation-description">Operation Description</a></li>
       </ul>
     </li>
     <li><a href="#application-contents">Application Contents</a></li>
