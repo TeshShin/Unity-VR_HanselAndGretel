@@ -106,6 +106,7 @@ b. 과자집 근처에 찾아야하는 재료를 평면 도안을 보고 해당 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # License
+에셋들은 구매한 것으로 재사용을 금한다.
 추후 작성 예정
 
 
