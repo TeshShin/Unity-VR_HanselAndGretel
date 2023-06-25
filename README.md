@@ -17,6 +17,7 @@ VR Storybook Game for Children
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -41,10 +42,34 @@ Unity-based VR 스토리북을 제작하는 것을 목표로 한다. <br/>
 * [![GitLab][GitLab]][GitLab-url]
 
 # Getting Started
+## Prerequisites
+1. Build를 진행하는 PC에 Unity Editor, Android SDK, Android NDK, Java JDK를 설치한다. 
+2. Unity 내에서 Files > Build Setting을 선택한 뒤, Android로 Platform을 변경한다. <br/>
+   (Texture Compression 세팅은 'ASTC', Compression Method 세팅은 'LZ4'로 설정한다.)
+3. Oculus Quest 2를 USB-C 케이블을 이용해 PC와 연결한다.
+4. Player > Other Settings에서 
+    1. Package 이름을 설정한다.
+    2. Rendering 설정에서 Auto Graphic API를 체크 표시한다.
+    3. Android Minimum API를 23 이상으로 설정한다.
+5. Project Settings > XR Plug-in Management에서 Oculus를 체크한다. <br/>
+   만일 세팅에 위 항목이 존재하지 않는다면 먼저 XR Plugin Management을 설치하여야 한다. 
 
 ## Installation
+
+## 설치방법
+
+### 방법 1.
+### [유니티 프로젝트 다운로드]()
+1. 위 Prerequisites 사항을 체크한다.
+2. Build Settings > Android > Run Device에서 앱을 실행할 Oculus Quest 2 기기를 선택한다.
+3. 3번의 화면에서 Build Button을 클릭해 Apk 파일을 생성한다.
+4. 생성된 Apk 파일을 Oculus Developer Hub의 UNKNOWN SOURCES에 드래그하여 설치한다.
+
+### 방법 2.
 ### [빌드된 프로젝트 템플릿 다운로드](https://drive.google.com/file/d/1aG-by0jnDPhGn2MWY-r2jGn5eHrKveG5/view?usp=sharing)
-### 방법 1. 오큘러스 기기로 옮겨서 실행하기(권장)
+
+## 조작방법
+### 방법 1. 오큘러스 기기
  - 움직이기 : 왼쪽 조이스틱
  - 선택 : 검지 버튼
  - 물건 잡기 : 중지 버튼
