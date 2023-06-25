@@ -19,6 +19,7 @@ VR Storybook Game for Children
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#Operation Description">Operation Description</a></li>
       </ul>
     </li>
     <li><a href="#application-contents">Application Contents</a></li>
@@ -56,8 +57,6 @@ Unity-based VR 스토리북을 제작하는 것을 목표로 한다. <br/>
 
 ## Installation
 
-## 설치방법
-
 ### 방법 1.
 ### [유니티 프로젝트 다운로드]()
 1. 위 Prerequisites 사항을 체크한다.
@@ -67,8 +66,11 @@ Unity-based VR 스토리북을 제작하는 것을 목표로 한다. <br/>
 
 ### 방법 2.
 ### [빌드된 프로젝트 템플릿 다운로드](https://drive.google.com/file/d/1aG-by0jnDPhGn2MWY-r2jGn5eHrKveG5/view?usp=sharing)
+ - 오큘러스 기기에 잘 옮긴다.
+ - 데스크톱에서 키보드와 마우스로 해본다.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 조작방법
+## Operation Description
 ### 방법 1. 오큘러스 기기
  - 움직이기 : 왼쪽 조이스틱
  - 선택 : 검지 버튼
