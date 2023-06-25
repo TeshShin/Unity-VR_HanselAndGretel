@@ -23,6 +23,7 @@ VR Storybook Game for Children
       </ul>
     </li>
     <li><a href="#application-contents">Application Contents</a></li>
+    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -103,6 +104,10 @@ a. 과자집 근처에 찾아야하는 재료 실루엣 or 힌트 식 UI로 보�
 b. 과자집 근처에 찾아야하는 재료를 평면 도안을 보고 해당 평면에 해당하는 입체 도형 찾기 <br/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+# License
+추후 작성 예정
+
 
 # Contact
 | 학교     |팀원          |역할       |이메일                     |
