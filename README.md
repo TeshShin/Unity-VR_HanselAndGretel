@@ -59,7 +59,7 @@ Unity-based VR 스토리북을 제작하는 것을 목표로 한다. <br/>
 ## Installation
 
 ### 방법 1.
-### [유니티 프로젝트 다운로드](https://drive.google.com/file/d/1sMgD-7AS9PrT7aOfn9hnEUfAhXaXh_rd/view?usp=sharing)
+### 유니티 프로젝트 다운로드(프로젝트를 가지고 있는 팀원들만)
 1. 위 Prerequisites 사항을 체크한다.
 2. Build Settings > Android > Run Device에서 앱을 실행할 Oculus Quest 2 기기를 선택한다.
 3. 3번의 화면에서 Build Button을 클릭해 Apk 파일을 생성한다.
